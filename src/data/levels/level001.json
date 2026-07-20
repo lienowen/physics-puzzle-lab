@@ -1,0 +1,22 @@
+{
+  "id": "level001",
+  "objects": [
+    {
+      "id": "player_ball",
+      "type": "ball",
+      "x": 120,
+      "y": 300,
+      "assetId": "ball_default",
+      "params": {
+        "radius": 20
+      }
+    },
+    {
+      "id": "goal_001",
+      "type": "goal",
+      "x": 900,
+      "y": 300,
+      "assetId": "goal_default"
+    }
+  ]
+}
